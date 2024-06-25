@@ -1,3 +1,5 @@
+
+# Video Chat Application 
 Video chat applications are widely used for various purposes, such as social,
 educational, and professional communication. However, developing a video chat
 application can be challenging, as it requires handling complex issues such as network
@@ -7,4 +9,4 @@ communication without the need for additional software or plugins. WebRTC is a s
 APIs and protocols that allow browsers and mobile applications to exchange audio, video,
 and data streams directly, without relying on intermediate servers or platforms. In this
 paper, we propose a video chat application that uses WebRTC and Node.js, a JavaScript
-runtime environment that allows for fast and scalable network applications3.
+runtime environment that allows for fast and scalable network applications.
