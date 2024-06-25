@@ -12,7 +12,7 @@ paper, we propose a video chat application that uses WebRTC and Node.js, a JavaS
 runtime environment that allows for fast and scalable network applications.
 
 #How to run:
-1) Update the firebase project config in the main.js file.
+1)Update the firebase project config in the main.js file.
 
 2)npm install
 
