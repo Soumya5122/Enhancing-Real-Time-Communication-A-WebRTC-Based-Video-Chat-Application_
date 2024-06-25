@@ -10,3 +10,10 @@ APIs and protocols that allow browsers and mobile applications to exchange audio
 and data streams directly, without relying on intermediate servers or platforms. In this
 paper, we propose a video chat application that uses WebRTC and Node.js, a JavaScript
 runtime environment that allows for fast and scalable network applications.
+
+#How to run:
+1) Update the firebase project config in the main.js file.
+
+2)npm install
+
+3)npm run dev
